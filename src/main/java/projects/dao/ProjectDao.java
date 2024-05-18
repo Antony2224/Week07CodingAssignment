@@ -202,7 +202,7 @@ String sql = "SELECT * FROM " + STEP_TABLE + " WHERE project_id = ?";
 			+ "project_name = ?, "
 			+ "estimated_hours = ?, "
 			+ "actual_hours = ?, "
-			+ "difficutly = ?, "
+			+ "difficulty = ?, "
 			+ "notes = ? "
 			+ "Where project_id = ?";
 		// @formatter:on
